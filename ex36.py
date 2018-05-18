@@ -19,4 +19,4 @@ def house():
 	else:
 		print "What do you want to do?"
 
-house()
+house()1
