@@ -13,3 +13,5 @@ print "Hello, %d and %d" % (adder, testing)
 print "\n_______________________________\n"
 
 
+what = add(age, subtract(height, multiply(weight, divide(iq, 2))))
+
