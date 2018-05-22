@@ -17,5 +17,5 @@ print "Let's do some things with stuff."
 print stuff[1]
 print stuff[-1] # fancy
 print stuff.pop()
-print ' '.join(stuff) 
-print '#'.join(stuff[3:5]) #stellar
+print ' '.join(stuff) # eg: joins stuff with ' '
+print '#'.join(stuff[3:5]) #stellar, eg: joins # between 3-5
