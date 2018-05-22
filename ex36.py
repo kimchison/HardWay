@@ -19,4 +19,15 @@ def house():
 	else:
 		print "What do you want to do?"
 
+<<<<<<< HEAD
+=======
+
+
+def guard(): 
+
+def start():
+	print "Enter ***"
+
+
+>>>>>>> e408702e6bce0f8149bf5eb3d1a04497c8dab0df
 house()
